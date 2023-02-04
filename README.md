@@ -223,6 +223,8 @@ Your new action will run any time a new commit is created or pushed to the remot
   <<< Author notes: Finish >>>
   Review what we learned, ask for feedback, provide next steps.
 -->
+<details id=6>
+<summary><h2>Step 6: Add a job to your workflow file</h2></summary>
 
 <details id=X>
 <summary><h2>Finish</h2></summary>
