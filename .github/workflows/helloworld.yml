@@ -1,4 +1,0 @@
-name: Post Hello World Message
-on:
-  pull_request:
-    types: [opened]
